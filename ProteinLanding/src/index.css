@@ -1,0 +1,7 @@
+body{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  /* background: rgb(41,37,38);
+  background: linear-gradient(223deg, rgba(41,37,38,1) 0%, rgba(124,236,251,0.09) 42%, rgba(103,159,255,1) 100%); */
+  background: #ffffff;
+}

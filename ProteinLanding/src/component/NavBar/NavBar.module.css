@@ -1,0 +1,35 @@
+.navbar{
+    width: 100%;
+    font-size: 20px;
+    border-radius:15px ;
+    text-decoration: none;
+   color: black;
+}
+.brandname{
+    color: rgb(22, 6, 198);
+    display: inline;
+    color: black;
+}
+.listname {
+    display: flex;
+    list-style: none;
+    gap: 70px;
+    position: absolute;
+    left: 680px;
+    top: 3px;
+}
+
+.listname a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+a:hover{
+    background: rgb(41,37,38);
+    background: linear-gradient(223deg, rgba(41,37,38,1) 0%, rgba(124,251,246,0.9682466736694678) 42%, rgba(103,159,255,1) 100%);
+border-radius: 30px 0px 10px 10px;
+font-size: 35px;
+}
+
+

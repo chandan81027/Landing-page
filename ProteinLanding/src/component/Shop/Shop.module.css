@@ -1,0 +1,71 @@
+.container{
+    display: flex;
+    /* border: 1px solid black; */
+    text-align: center;
+    /* padding:30px; */
+    margin: 100px;
+}
+.container2{
+    display: flex;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin: 100px;
+    position: relative;
+    bottom: 100px;
+}
+.container3{
+    display: flex;
+    text-align: center;
+    margin: 100px;
+    position: relative;
+    bottom: 200px;
+}
+.card1{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card2{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card3{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card4{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card21{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card22{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card23{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card24{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card31{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card32{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card33{
+    border: 1px solid black;
+    margin: 20px;
+}
+.card34{
+    border: 1px solid black;
+    margin: 20px;
+}
+
